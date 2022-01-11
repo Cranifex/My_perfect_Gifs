@@ -8,7 +8,7 @@ Credits go to Ducky3D for helpful tutorials.
 # My first tries, following Tutorials
 
 ## Man eating Ogre shaman
-![Man Eating Ogre Shaman](Loops/Gifs/Man eating ogre shaman.gif)
+![Man Eating Ogre Shaman](Loops/Gifs/Man%20eating%20ogre%20shaman.gif)
 ## Raving Assassin
 ![Raving Assassin](Loops/Gifs/Raving Assassin.gif)
 ## Dark Lurker
